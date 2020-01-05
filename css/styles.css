@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+}
+body{
+  text-align: center;
+}
+.top-container{
+  padding-top: 50px;
+}
+.p1{
+  font-weight: bold ;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: underline;
+}
+.dog{
+  position: relative ;
+  right:20px;
+}
+.top-bone{
+ width:80px;
+ position: absolute;
+ top:80px;
+ right:410px;
+}
+.bottom-bone{
+  width:80px;
+  position:absolute;
+  left:410px;
+  top:80px;
+}
+body{
+  background-color: red;
+}
